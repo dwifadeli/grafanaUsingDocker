@@ -13,7 +13,7 @@
 
 ## SETTING PADA GRAFANA 
 1. add connection dan add data source prometheus 
-2. ![alt_text]([https://github.com/dwifadeli/grafanaUsingDocker/tree/main/public](https://github.com/dwifadeli/grafanaUsingDocker/blob/main/public/grafana.jpeg)?raw=true)
+2. ![alt_text](https://github.com/dwifadeli/grafanaUsingDocker/blob/main/public/grafana.jpeg?raw=true)
 3. lalu save dan test
 4. Selanjutnya import dashboard dan masukan ID dashboard yang didapat dari grafana.com
 5. Pilih victoria matrics pada nama connection sebelumnya
